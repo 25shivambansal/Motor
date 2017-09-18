@@ -5,3 +5,4 @@ Steering
 Seats
 Breaks
 Doors
+Seat belts
