@@ -4,3 +4,4 @@ Wheels
 Steering
 Seats
 Breaks
+Doors
